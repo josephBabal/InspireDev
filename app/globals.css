@@ -1,0 +1,49 @@
+:root {
+  --primary-bg-color: #FFFFFF;
+
+  --primary-btn-color: #FFFFFF;
+
+  --link-color: #3812D0;
+
+  --primary-color: #5A3DEF;
+
+  --primary-gradient: linear-gradient(to right, #3610CE, #6B52FF);
+
+  --heading-color: #1A1A1A;
+  --text-color: #555555;
+
+  --container-padding: 2rem;
+  --max-width: 1280px;
+
+  --navbar-height: 64px;
+  --message-height: 48px;
+
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  margin-top: calc(var(--navbar-height) + var(--message-height));
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.btn {
+  padding: 16px 46px;
+  background: var(--primary-color);
+  border-radius: 0.5rem;
+  color: var(--primary-btn-color);
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  text-wrap: nowrap;
+  cursor: pointer;
+}
+

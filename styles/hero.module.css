@@ -1,0 +1,16 @@
+.container {
+  max-width: var(--max-width);
+  padding: var(--container-padding);
+}
+
+.heroText {
+  margin-block: 64px 40px;
+  text-align: center;
+}
+
+.btnContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "link": "/inspiration",
+    "name": "Inspiration"
+  },
+  {
+    "id": 1,
+    "link": "/colors",
+    "name": "Colors"
+  },
+  {
+    "id": 2,
+    "link": "/typography",
+    "name": "Typography"
+  }, 
+  {
+    "id": 3,
+    "link": "/code",
+    "name": "Code"
+  }
+]
