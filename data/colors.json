@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Radix UI",
+    "link": "https://www.radix-ui.com/colors/custom",
+    "image": "",
+    "category": "colors"
+  },
+  {
+    "name": "Realtime Colors",
+    "link": "https://www.realtimecolors.com",
+    "image": "",
+    "category": "colors"
+  },
+  {
+    "name": "Mesher",
+    "link": "https://csshero.org/mesher/",
+    "image": "",
+    "category": "colors"
+  },
+  {
+    "name": "Coolors",
+    "link": "https://coolors.co",
+    "image": "",
+    "category": "colors"
+  },
+  {
+    "name": "Color Kit",
+    "link": "https://colorkit.io",
+    "image": "",
+    "category": "colors"
+  },
+  {
+    "name": "Alphredo",
+    "link": "https://alphredo.app",
+    "image": "",
+    "category": "colors"
+  }
+]
